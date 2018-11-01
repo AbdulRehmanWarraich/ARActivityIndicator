@@ -5,8 +5,6 @@
 //  Created by AbdulRehman Warraich on 11/1/18.
 //
 
-import Foundation
-
 //MARK:- MBActivityIndicator Class
 public class ARActivityIndicator {
     
