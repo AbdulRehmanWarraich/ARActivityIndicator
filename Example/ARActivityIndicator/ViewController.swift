@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import ARActivityIndicator
 
 class ViewController: UIViewController {
 
@@ -15,10 +16,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    @IBAction func showIndicator(_ sender: UIButton) {
+        ARActivityIndicator.shared.showActivityIndicator(withAnimation: true, withDelay: 3)
+        ARActivityIndicator.shared.hideActivityIndicator(withAnimation: true, withDelay: 3)
+        ARActivityIndicator.shared.removeAllActivityIndicator()
     }
-
+    
 }
 

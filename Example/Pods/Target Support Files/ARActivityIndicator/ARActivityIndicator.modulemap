@@ -1,0 +1,6 @@
+framework module ARActivityIndicator {
+  umbrella header "ARActivityIndicator-umbrella.h"
+
+  export *
+  module * { export * }
+}

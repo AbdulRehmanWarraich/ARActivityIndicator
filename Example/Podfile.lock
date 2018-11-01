@@ -1,0 +1,16 @@
+PODS:
+  - ARActivityIndicator (0.1.0)
+
+DEPENDENCIES:
+  - ARActivityIndicator (from `../`)
+
+EXTERNAL SOURCES:
+  ARActivityIndicator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ARActivityIndicator: 693755e2e42f056fff550c27d5b71d5f7a006735
+
+PODFILE CHECKSUM: 0fd9e18df6769c6dfb798b794793970439adbd4b
+
+COCOAPODS: 1.5.0
