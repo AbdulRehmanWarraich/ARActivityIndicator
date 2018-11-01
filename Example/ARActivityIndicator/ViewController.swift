@@ -17,9 +17,8 @@ class ViewController: UIViewController {
     }
 
     @IBAction func showIndicator(_ sender: UIButton) {
-        ARActivityIndicator.shared.showActivityIndicator(withAnimation: true, withDelay: 3)
+        ARActivityIndicator.shared.showActivityIndicator()
         ARActivityIndicator.shared.hideActivityIndicator(withAnimation: true, withDelay: 3)
-        ARActivityIndicator.shared.removeAllActivityIndicator()
     }
     
 }

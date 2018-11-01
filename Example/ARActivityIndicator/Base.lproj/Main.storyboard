@@ -22,8 +22,8 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nci-OM-eXQ">
-                                <rect key="frame" x="164.5" y="318.5" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="136.5" y="318.5" width="102" height="30"/>
+                                <state key="normal" title="Show indicator"/>
                                 <connections>
                                     <action selector="showIndicator:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="2WA-Ox-QMw"/>
                                 </connections>

@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/ARActivityIndicator.svg?style=flat)](https://cocoapods.org/pods/ARActivityIndicator)
 
 
-<img src="https://imgur.com/7OKMmH2.png" width="500" height="545" />
+![](gifs/Demo.gif)
 
 ## Requirements
 
