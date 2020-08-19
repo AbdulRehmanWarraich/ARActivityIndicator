@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ARActivityIndicator'
-  s.version          = '1.0'
+  s.version          = '1.0.1'
   s.summary          = 'ARActivityIndicator allow you to show indicator for a process'
 
 # This description is used to generate tags and improve search results.
@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'ARActivityIndicator/Classes/**/*'
-   s.swift_version = '4.2'
+   s.swift_version = '5'
   
   # s.resource_bundles = {
   #   'ARActivityIndicator' => ['ARActivityIndicator/Assets/*.png']
